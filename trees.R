@@ -28,7 +28,6 @@ if (!require(rgdal)){
 
 # CALL LIBRARIES ---------------------------------------- #
 
-library(rsconnect)
 library(dplyr)
 library(ggplot2)
 library(RColorBrewer)
